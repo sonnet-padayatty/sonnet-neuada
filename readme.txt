@@ -15,7 +15,7 @@ e. The containers which are running in detached mode can be accessed by using th
 f. Please feel free to create new json files/ edit existing json files.
 g. The new changes will be reflected in corresponding xml files under "results" directory of container2
 
-If there is any issue in running the files, please connect to my AWS instance - 52.211.151.45 , port: 22 , username : ubuntu
+If there is any issue in running the files, please connect to my AWS instance - 52.214.74.253 , port: 22 , username : ubuntu
 ppk key: "neuda_key" for the same is attached.
 
 Thank You !
